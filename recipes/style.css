@@ -1,0 +1,60 @@
+body {
+    letter-spacing: 1px;
+    background-color:#24292b;
+}
+.title {
+    font-family: Florence, cursive;
+    font-size:50px;
+    text-shadow: 1px 1px 1px #1c1d1c, -3px 6px 5px #050505;
+    text-align: center;
+    color:#bbcfd1;
+    background: linear-gradient(90deg, 
+     rgba(255, 255, 255, 0) 0%, 
+     rgba(255, 255, 255, 0.2) 25%, 
+     rgba(255, 255, 255, 0.2) 75%, 
+     rgba(255, 255, 255, 0) 100%);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
+     inset 0 0 1px rgba(255, 255, 255, 0.6);
+     margin-left: 25%;
+     width: 50%;
+     
+}
+.banners {
+    font-family: Florence, cursive;
+    font-size:50px;
+    text-shadow: 1px 1px 1px #1c1d1c, -3px 6px 5px #050505;
+    text-align: center;
+    color:#bbcfd1;
+    background: linear-gradient(90deg, 
+     rgba(255, 255, 255, 0) 0%, 
+     rgba(255, 255, 255, 0.2) 25%, 
+     rgba(255, 255, 255, 0.2) 75%, 
+     rgba(255, 255, 255, 0) 100%);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
+     inset 0 0 1px rgba(255, 255, 255, 0.6);
+     margin-left: 40px;
+     margin-right: 40px;
+}
+.list {
+    line-height: 1.5;
+    font-family: system-ui;
+    font-size:22px;
+    color:#bbcfd1;
+    padding: 3em;    
+    height: 25%;
+    text-shadow: 1px 1px 1px #1c1d1c, -3px 6px 5px #050505;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.image {
+    padding: 1px;
+    float:right;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 1px #1c1d1c, -3px 6px 5px #050505;
+}
+  
