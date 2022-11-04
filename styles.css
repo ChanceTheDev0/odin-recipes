@@ -1,13 +1,17 @@
 body {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
     letter-spacing: 1px;
-    background-color:#24292b;
+    background-color:#858585;
 }
 .title {
     font-family: Florence, cursive;
     font-size:50px;
-    text-shadow: 1px 1px 1px #1c1d1c, -3px 6px 5px #050505;
+    text-shadow: 1px 1px 1px #1c1d1c, -3px 6px 5px #3f3f3f;
     text-align: center;
-    color:#bbcfd1;
+    color:#000000;
     background: linear-gradient(90deg, 
      rgba(255, 255, 255, 0) 0%, 
      rgba(255, 255, 255, 0.2) 25%, 
@@ -19,6 +23,7 @@ body {
      width: 50%;
 }
 .list {
+    
     line-height: 1.5;
     font-family: system-ui;
     font-size:22px;
